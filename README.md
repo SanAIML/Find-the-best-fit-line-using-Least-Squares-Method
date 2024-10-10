@@ -50,7 +50,8 @@ plt.show()
 -1.1064189189189189 14.08108108108108
 [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
   0.80405405  4.12331081  7.44256757 12.97466216]
-![image](https://github.com/user-attachments/assets/7f583303-ba09-4f3b-b5f6-77a3a4debb54)
+![download](https://github.com/user-attachments/assets/c8973fee-226b-426a-a487-149c57125700)
+
 
 
 
