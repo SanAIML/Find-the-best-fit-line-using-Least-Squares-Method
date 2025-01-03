@@ -24,6 +24,7 @@ Developed by: Sanchita Sandeep
 RegisterNumber: 24900172 
 */
 ```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
@@ -43,6 +44,7 @@ print(Y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color='red')
 plt.show()
+```
 
 ## Output:
 ![best fit line](sam.png)
